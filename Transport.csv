@@ -1,0 +1,74 @@
+brand,model,color,speed,seatCount,manufactureDate,weightCapacity
+Toyota,Camry,Blue,120,5,2022-03-15,1500
+Ford,Explorer,Red,130,7,2021-12-01,2000
+Honda,Accord,Silver,110,5,2022-02-10,1400
+Chevrolet,Equinox,Black,125,5,2022-05-20,1600
+Nissan,Altima,White,115,5,2022-01-05,1500
+Hyundai,Sonata,Green,118,5,2022-04-18,1400
+Volkswagen,Jetta,Yellow,122,5,2022-06-30,1450
+BMW,3 Series,Gray,135,5,2021-11-12,1700
+Mercedes-Benz,C-Class,Blue,130,5,2022-03-05,1600
+Audi,A4,Black,128,5,2022-02-28,1550
+Subaru,Outback,White,115,5,2022-07-10,1600
+Mazda,CX-5,Red,125,5,2022-01-20,1500
+Jeep,Cherokee,Silver,140,5,2022-04-02,1800
+Tesla,Model 3,Blue,160,5,2022-02-15,1300
+Volvo,S60,Gray,130,5,2022-05-25,1550
+Lexus,ES,Black,125,5,2021-10-08,1500
+Kia,Sorento,White,135,7,2022-06-12,2000
+Chrysler,Pacifica,Gold,120,7,2022-03-28,1900
+Buick,Encore,Green,110,5,2022-01-15,1400
+Cadillac,XT5,Red,140,5,2022-04-05,1700
+GMC,Terrain,Silver,118,5,2022-07-15,1500
+Acura,MDX,Blue,135,7,2022-02-05,2000
+Infiniti,Q50,Black,130,5,2022-01-30,1600
+Jaguar,F-PACE,Gray,145,5,2022-06-18,1800
+Land Rover,Discovery,Silver,150,7,2022-03-10,2100
+Porsche,Cayenne,White,155,5,2021-12-20,1900
+Fiat,500,Red,110,4,2022-05-01,1200
+Mitsubishi,Outlander,Blue,120,7,2022-01-10,1800
+Mini,Cooper,Green,130,4,2022-04-30,1300
+Lincoln,Navigator,Black,140,7,2022-02-20,2200
+Chevrolet,Camaro,Red,170,4,2022-06-05,1400
+Ford,F-150,Blue,150,5,2022-03-02,2500
+Toyota,Rav4,Silver,125,5,2022-05-15,1600
+Honda,Pilot,Gray,140,8,2022-01-25,2100
+Subaru,Forester,White,120,5,2022-06-08,1500
+Hyundai,Tucson,Black,115,5,2022-02-12,1400
+Volkswagen,Tiguan,Blue,128,5,2021-11-30,1550
+BMW,X5,Red,145,5,2022-05-28,1800
+Mercedes-Benz,GLC,White,135,5,2022-02-08,1600
+Audi,Q5,Gray,130,5,2022-01-08,1550
+Nissan,Rogue,Silver,125,5,2022-06-22,1500
+Tesla,Model Y,Black,155,5,2022-03-18,1700
+Volvo,XC90,Blue,140,7,2022-01-12,2000
+Lexus,RX,Red,130,5,2022-04-30,1600
+Kia,Soul,Green,110,5,2022-07-05,1400
+Chrysler,300,Gray,130,5,2022-02-25,1600
+Buick,Enclave,White,140,7,2021-12-10,2100
+Cadillac,CT5,Black,150,5,2022-06-15,1700
+GMC,Acadia,Blue,135,7,2022-03-15,2000
+Acura,RDX,Red,140,5,2022-01-02,1600
+Infiniti,QX60,Silver,130,7,2022-05-10,1900
+Jaguar,I-PACE,Gray,160,5,2022-02-28,1800
+Land Rover,Range Rover,White,155,5,2022-01-15,2000
+Porsche,911,Black,180,4,2021-10-25,1400
+Fiat,Spider,Red,120,2,2022-04-05,1100
+Mitsubishi,Eclipse Cross,Silver,125,5,2022-01-30,1500
+Mini,Countryman,Blue,130,5,2022-06-10,1600
+Lincoln,Aviator,Green,145,7,2022-03-20,2100
+Chevrolet,Silverado,Gray,160,5,2022-01-12,2400
+Ford,Escape,White,125,5,2022-04-18,1600
+Toyota,Highlander,Black,140,7,2022-07-30,2000
+Honda,Civic,Red,130,5,2022-03-08,1500
+Subaru,Crosstrek,Blue,120,5,2022-01-01,1400
+Hyundai,Elantra,Silver,115,5,2022-06-22,1400
+Volkswagen,Atlas,Gray,135,7,2022-02-15,2000
+BMW,7 Series,Black,150,5,2021-12-28,1800
+Mercedes-Benz,E-Class,White,140,5,2022-06-05,1600
+Audi,Q7,Blue,145,7,2022-03-12,2100
+Nissan,Maxima,Black,155,5,2022-01-18,1700
+
+
+
+
